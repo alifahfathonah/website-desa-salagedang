@@ -1,5 +1,5 @@
 # WEBSITE DESA SALAGEDANG
-Website desa salagedang adalah sebuah website tentang desa salagedang yang dibuat oleh Andi Alfian (Mahasiswa Informatika Universitas Majalengka ketika KNM di Desa Salagedang), menggunakan framework CodeIgniter 3 dan untuk tampilannya menggunakan template bootstrap saja, website tersebut berisi tentang : <br>
+Website desa salagedang adalah sebuah website tentang desa salagedang yang dibuat oleh Andi Alfian, menggunakan framework CodeIgniter 3 dan untuk tampilannya menggunakan template bootstrap saja, website tersebut berisi informasi tentang : <br>
 - Sejarah Desa Salagedang
 - Profil Desa Salagedang
 - Visi & Misi Desa Salagedang
@@ -16,9 +16,8 @@ Website desa salagedang adalah sebuah website tentang desa salagedang yang dibua
 - Manajemen Sistem (dapat mengubah nama desa, logo, sejarah, profil, visi & misi, serta potensi desa).
 
 ## Quickstart
-- Jika dibuka dilocal, buat folder dengan nama SLG,
-- Simpan project web desa salagedang ke dalam folder tersebut.
-- Buat Database dengan nama db_slg
+- Jika dibuka dilocal, ubah nama folder jadi 'SLG'.
+- Jika dilocal, buat Database dengan nama db_slg
 - Import file db_sql yang terdapat pada folder database, import ke database yang telah dibuat sebelumnya.
 - Untuk Melakukan Proses Login, buka https://localhost/SLG/Auth <br>
 Login sebagai admin, <br> 
